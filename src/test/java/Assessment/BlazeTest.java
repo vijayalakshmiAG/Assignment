@@ -55,7 +55,6 @@ public class BlazeTest extends Base{
 		System.out.println("Expiration=" +details.Expiration().getText());
 		driver.close();
 		}
-		
 	}
 
 }
